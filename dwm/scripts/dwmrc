@@ -1,0 +1,4 @@
+bash $HOME/.dwm/bar & disown
+nitrogen --restore & disown
+
+#gentoo-pipewire-launcher &
